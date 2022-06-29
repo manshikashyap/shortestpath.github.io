@@ -1,0 +1,42 @@
+body{ 
+   
+	margin:0 auto;
+    background-color:Silver;
+}
+	
+	h1,h2,h3 {
+color:Maroon;
+}
+
+h1{
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(229, 217, 240);
+    margin-top:0;
+    background-color: black;
+}
+a{
+    font-size: x-large;
+    text-align: center;
+
+}
+a:link,a:visited{
+    color:rgb(240, 231, 233);
+    text-decoration:none;
+}
+a:hover{
+    color:indianred;
+}
+
+body{
+    background:url("./images/pic2.jpg");
+    background-size: cover;
+}
+p{
+    text-align: center;
+    font-size: larger;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    margin-top: 20px;
+    padding:5px;
+}
