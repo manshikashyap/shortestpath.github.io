@@ -11,32 +11,32 @@ color:Maroon;
 h1{
     font-style: italic;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: rgb(229, 217, 240);
+    color: rgb(229, 225, 233);
     margin-top:0;
     background-color: black;
+    font-size: xx-large;
 }
 a{
     font-size: x-large;
     text-align: center;
+    margin-left: 43%;
+    background-color: black;
 
 }
 a:link,a:visited{
-    color:rgb(240, 231, 233);
+    color:rgb(247, 242, 242);
     text-decoration:none;
+    background-color: black;
 }
 a:hover{
-    color:indianred;
+    color:rgb(194, 115, 115);
+    background-color: black;
 }
 
 body{
-    background:url("./images/pic2.jpg");
-    background-size: cover;
+    background-image: url(./images/pic1.jpg);
+
 }
-p{
-    text-align: center;
-    font-size: larger;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: aliceblue;
-    margin-top: 20px;
-    padding:5px;
+title{
+    margin-top: 20%;
 }
